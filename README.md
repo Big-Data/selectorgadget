@@ -1,4 +1,4 @@
-selectorgadget
+SelectorGadget has moved
 ==============
 
-Old home of selectorgadget
+Please point your browsers and refs to https://github.com/cantino/selectorgadget
